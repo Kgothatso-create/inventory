@@ -14,7 +14,7 @@ Before running this project, make sure you have the following software installed
 - Download zip folder
 
 ## Running the Application
-- Run application on prefered IDE
+-   o pen inventory.py file on prefered IDE and run
 
 ## Contributing
 If you'd like to contribute to this project, please follow these steps:

@@ -1,6 +1,7 @@
 # Inventory program
 A basic inventory program
-This project is an inventory program designed to be run on a local server using the command prompt (cmd) or using docker.
+This project is an inventory program designed to be run localy on the command prompt (cmd).
+The program is to be run on your choice of IDE.
 All comments and additional notes related to the project are written within the code itself.
 
 ## Prerequisites
